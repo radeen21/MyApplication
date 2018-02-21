@@ -5,4 +5,11 @@
     <color name="colorAccent">#FF4081</color>
 
     <color name="colorTransparent">#00000000</color>
+    <color name="black">#000000</color>
+
+    <!--Pink-->
+    <color name="colorPink">#EB1A4D</color>
+
+    <!--Green-->
+    <color name="green">#76FF03</color>
 </resources>
